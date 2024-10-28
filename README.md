@@ -1,6 +1,5 @@
 # Hi, I'm Phạm Công Duẩn 👋
-A senior software engineer with more than 5 years of professional experience. I have excellent knowledge of backend Java development.
-In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.
+Hello, I am a software engineering student. I am passionate about exploring the world of algorithms, programming languages ​​and the latest technologies. Creating useful software products that meet users' needs is my greatest passion.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
@@ -11,11 +10,11 @@ In general, I've worked with monolithic, microservice and serverless architectur
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://www.facebook.com/duan.pham.7965692?locale=vi_VN">
+       <img src="https://img.icons8.com/?size=160&id=FeFKy6pAkhxv&format=png"/>
    </a>>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   <a href="https://www.youtube.com/@DuannnPhamCong">
+       <img src="https://img.icons8.com/?size=160&id=115362&format=png"/>
    </a>
 
 
